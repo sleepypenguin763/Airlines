@@ -57,11 +57,11 @@ main
 
 |  data you want  |  REST API URL  |
 | ---- | ---- |
-|  Aircraft Data[First_Three_ICAO=00A]   |  https://sleepypenguin763.github.io/Aviation/aircrafts/00A/  |
-|  Aircraft Data[ICAO=00AE3A]   |  https://sleepypenguin763.github.io/Aviation/aircrafts/00A/00AE3A  |
-|  Airline Data   |  https://sleepypenguin763.github.io/Aviation/airlines/  |
-|  Airline Data[Code=ANA]   |  https://sleepypenguin763.github.io/Aviation/airlines/ANA/  |
-|  Airport Data[First_Two_ICAO=KL]   |  https://sleepypenguin763.github.io/Aviation/airports/KL/  |
-|  Airport Data[ICAO=KLAX]   |  https://sleepypenguin763.github.io/Aviation/airports/KL/KLAX  |
-|  Country Data   |  https://sleepypenguin763.github.io/Aviation/countries/  |
-|  Country Data[ISO2=JP]   |  https://sleepypenguin763.github.io/Aviation/countries/JP  |
+|  Aircraft Data[First_Three_ICAO=00A]   |  https://sleepypenguin763.github.io/Airlines/aircrafts/00A/  |
+|  Aircraft Data[ICAO=00AE3A]   |  https://sleepypenguin763.github.io/Airlines/aircrafts/00A/00AE3A  |
+|  Airline Data   |  https://sleepypenguin763.github.io/Airlines/airlines/  |
+|  Airline Data[Code=ANA]   |  https://sleepypenguin763.github.io/Airlines/airlines/ANA/  |
+|  Airport Data[First_Two_ICAO=KL]   |  https://sleepypenguin763.github.io/Airlines/airports/KL/  |
+|  Airport Data[ICAO=KLAX]   |  https://sleepypenguin763.github.io/Airlines/airports/KL/KLAX  |
+|  Country Data   |  https://sleepypenguin763.github.io/Airlines/countries/  |
+|  Country Data[ISO2=JP]   |  https://sleepypenguin763.github.io/Airlines/countries/JP  |
