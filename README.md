@@ -6,7 +6,7 @@ User can access datas of JSON file as if REST API server
 
 ## Directory Setup
 ```
-gh-pages
+main
 ├── aircrafts
 │   ├── Folder name: First 3 character of ICAO aircraft number
 |        ├── Folder name: ICAO aircraft number
