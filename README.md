@@ -65,3 +65,5 @@ main
 |  Airport Data[ICAO=KLAX]   |  https://sleepypenguin763.github.io/Airlines/airports/KL/KLAX  |
 |  Country Data   |  https://sleepypenguin763.github.io/Airlines/countries/  |
 |  Country Data[ISO2=JP]   |  https://sleepypenguin763.github.io/Airlines/countries/JP  |
+
+Note: Please view [this repo](https://github.com/sleepypenguin763/Flight-Routes/tree/main) to get the route information given a callsign.
